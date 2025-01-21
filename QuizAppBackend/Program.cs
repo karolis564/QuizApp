@@ -109,7 +109,7 @@ if (app.Environment.IsDevelopment())
         new EmailSubmission { Email = "karolis@example.com" },
         new EmailSubmission { Email = "as@example.com" },
         new EmailSubmission { Email = "martynas@example.com" },
-         new EmailSubmission { Email = "564@example.com" }
+        new EmailSubmission { Email = "564@example.com" }
     );
 
     // Populate AnswerSubmissions
